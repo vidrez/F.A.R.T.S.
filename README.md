@@ -5,11 +5,16 @@ F.A.R.T.S. is a security-first URL shortener that ensures users are protected by
 
 ---
 
+![Home](/docs/home.png)
+![Redirect](/docs/redirect.png)
+---
+
 ## ✨ Features  
 - 🔒 **Security First**: Every URL is scanned with VirusTotal to detect potential threats. If the scan is not possible the automatic redirect will be disabled. 
 - ✂️ **Simple and Fast**: Quickly shorten URLs with minimal effort.  
 - 🌍 **Modern Stack**: Built with Nuxt.js for the frontend and MongoDB for data storage.  
-- 🚀 **Scalable Deployment**: Ready for production with Vercel and MongoDB Atlas.  
+- 🚀 **Scalable Deployment**: Ready for production with Vercel and MongoDB Atlas.
+- 🌑 **Dark Mode Only**: Because yes.  
 
 ---
 
